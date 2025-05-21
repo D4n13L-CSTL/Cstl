@@ -31,9 +31,8 @@ Soy un desarrollador backend apasionado por construir soluciones eficientes, esc
 
 ## 📫 ¿Cómo contactarme?
 
-- ✉️ Email: tuemail@example.com
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- 🌐 Portafolio: [tusitio.com](https://tusitio.com) *(opcional)*
+- ✉️ Email: deikerdcastillo@gmail.com
+
 
 ---
 
