@@ -1,62 +1,41 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# 👋 ¡Hola! Soy un Backend Developer
 
-###
+¡Bienvenido a mi perfil de GitHub!  
+Soy un desarrollador backend apasionado por construir soluciones eficientes, escalables y mantenibles. Mi herramienta principal es **Python**, junto con su ecosistema de frameworks modernos.
 
-<div align="center">
-</div>
+---
 
-###
+## 🧠 Sobre mí
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=D4n13L-CSTL.D4n13L-CSTL&"  />
-</div>
+- 🔧 **Desarrollador Backend** especializado en Python
+- 🛠️ Experiencia con frameworks como **Flask**, **Django**, y **FastAPI**
+- 🗃️ Trabajo con bases de datos **SQL** y **NoSQL**
+- 🔐 Interesado en **seguridad informática** y buenas prácticas de desarrollo
+- 🚀 Siempre aprendiendo nuevas tecnologías y patrones de arquitectura como **microservicios**, **Clean Architecture** y **Docker**
 
-###
+---
 
-<h1 align="center">Hey there 👋</h1>
+## 🧰 Tecnologías que uso
 
-###
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<h3 align="left"></h3>
+---
 
-###
+## 📫 ¿Cómo contactarme?
 
-<p align="left"></p>
+- ✉️ Email: tuemail@example.com
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- 🌐 Portafolio: [tusitio.com](https://tusitio.com) *(opcional)*
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+> 💡 *"Nunca dejes de aprender. La tecnología evoluciona, y nosotros también."*
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=D4n13L-CSTL&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
